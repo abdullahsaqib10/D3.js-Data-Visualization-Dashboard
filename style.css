@@ -1,0 +1,101 @@
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading{
+  padding-right: 30px;
+	padding-left: 30px;
+}
+
+h1 {
+  font-weight: 100;
+  margin-top: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+
+  line {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+  }
+
+  /* text {
+            
+    font-size: 10px;
+    text-anchor: middle;
+} */
+
+.onMouseHover
+{
+  fill: rgb(56, 3, 61);
+}
+
+
+
+#row1{
+  display: flex;
+  height: 350px;
+  width: 500px;
+
+}
+
+#row2{
+  display: flex;
+  height: 350px;
+  width: 500px;
+  
+}
+
+#linePlot
+{
+  border-style: solid;
+  height: 350px;
+  width: 460px;
+  
+}
+
+#graphPlot
+{
+  border-style: solid;
+  
+}
+
+#barPlot
+{
+  border-style: solid;
+  
+}
+
+#treePlot
+{
+  border-style: solid;
+  
+}
+
+#forceDirected
+{
+  border-style: solid;
+  
+}
+
+#timeLine
+{
+  border-style: solid;
+}
+
